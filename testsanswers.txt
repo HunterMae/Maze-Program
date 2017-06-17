@@ -1,0 +1,86 @@
+Maze 1: Wanted to test to make sure it found the shortest path.
+	Size: 9x5
+	Start loc: 1 1
+	Shortest Path: 10 steps
+	*****
+	*---*
+	*W*-*
+	*W*-*
+	*W*-*
+	*W*-*
+	*W*-*
+	*E--*
+	*****
+	
+Maze 2: This was the solved maze that you used. Just wanted to make sure mine was the same.
+	Size: 9x10
+	Start loc: 1 1
+	Shortest Path: 10 steps
+	**********
+	*-       *
+	*+**LL** *
+	*---LL   *
+	* *-LL* **
+	*LL-     *
+	*L*-**** *
+	*  -E    *
+	**********
+	
+Maze 3: Testing to make sure it went the shortest distance.
+	Size: 9x8
+	Start loc: 1 1
+	Shortest Path: 12 steps
+	********
+	*-   LL*
+	*+W***L*
+	*-    L*
+	*-******
+	*-*E   *
+	*-*+WW *
+	*---   *
+	********
+	
+Maze 4: Making sure it found shortest path.
+	Size: 7x8
+	Start loc: 1 6
+	Shortest Path: 12 steps
+	********
+	* E L--*
+	* - L- *
+	**-W*- *
+	*W++-- *
+	*      *
+	********
+	
+Maze 5: Trying larger mazes to find shortest path.
+	Size: 13x13
+	Start loc: 1 1
+	Shortest Path: 27 steps
+	*************
+	*---L   W   *
+	***--WW     *
+	*   -++L    *
+	******-LLLLL*
+	*     +-----*
+	*  ******* -*
+	*W***   ***+*
+	*LLLLLLLLL--*
+	*         -**
+	*     WWWW+**
+	*WWWWLLL  -E*
+	*************
+	
+Maze 6: Made sure that it would find shortest path around lava.
+	Size: 9x25
+	Start loc: 1 1
+	Shortest Path: 21 steps
+	*************************
+	*-  LLLLLLLLLLLLLLLLL****
+	*-WW**************      *
+	*---LLLLLLLL            *
+	** --------*  ******    *
+	*  LLLLLLL---************
+	*    LLLL   -----E    ***
+	***         LLLLLLLLLLLL*
+	*************************
+	
